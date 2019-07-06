@@ -1,8 +1,7 @@
-// portland map initializer
+
 var map = window.L.map('map').setView([45.5235494,-122.654917], 13);
 
 
-// You can use GeoJSON from portland directly!
 var demUrl = 'https://opendata.arcgis.com/datasets/43447f114b184e5a81024ca65bddf5f9_126.geojson';
 
 
